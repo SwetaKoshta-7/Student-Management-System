@@ -1,0 +1,30 @@
+[
+    {
+        "student_id": "102",
+        "name": "Arjun",
+        "age": 21,
+        "course": "Data Science",
+        "marks": 88.0
+    },
+    {
+        "student_id": "101",
+        "name": "Neha",
+        "age": 21,
+        "course": "AIML",
+        "marks": 93.0
+    },
+    {
+        "student_id": "103",
+        "name": "Amit",
+        "age": 21,
+        "course": "Data Science",
+        "marks": 82.0
+    },
+    {
+        "student_id": "105",
+        "name": "mehak",
+        "age": 22,
+        "course": "aiml",
+        "marks": 78.0
+    }
+]
